@@ -33,6 +33,7 @@ android {
     buildFeatures {
         viewBinding = true
     }
+    // this project was made by Dima(!excitement#8118) and Harry(N.pat#9245)
 }
 
 dependencies {
